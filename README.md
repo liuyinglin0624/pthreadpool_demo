@@ -11,3 +11,5 @@
 - 投递任务：pthread_pool_addtask(ITask* task);
 - 线程池的销毁：pthread_pool_destroy();
 - 任务基类：class ITask;
+#### 细节
+- main.cpp是线程池的封装测试
